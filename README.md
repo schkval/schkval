@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @schkval
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-                  Sincerely, your friend Schkval
+- 👋 Hi, I’m @schkval.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Python.
+  Sincerely, your friend Schkval
 
 In our eyes , passion
 What is hiding behind it?
