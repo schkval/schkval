@@ -12,4 +12,3 @@ And passion has become fate.
 Everything else is art
 In the madness of being yourself.
                             
-                            Labyrinth of reflections
